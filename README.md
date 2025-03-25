@@ -29,9 +29,13 @@ Merged all tables into one dashboard and applied slicer.
 
 ## Key Insights
 Card Brand: Mastercard emerged as the most widely used card brand, with the highest number of clients.
+
 Card Type: Debit cards had the Largest user among all card types.
+
 Demographic Insights: youths(18-35 ) recorded the highest average yearly income.
+
 Account Openings: The year 2020 saw the highest number of new account openings.
+
 Card Expiry Trends: Approximately 3,041 cards were set to expire after 2020.
 
 ## Conclusion
