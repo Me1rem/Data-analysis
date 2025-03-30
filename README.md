@@ -14,7 +14,7 @@ income.
 5. Insights for Marketing: Provide insights on which group of customers might be ideal for 
 targeted marketing campaigns (based on credit scores, income, and card types).
 
-Dashboard Interaction <a href="https://github.com/Me1rem/Data-analysis/blob/main/community%20dataset%20(Recovered).xlsx">View Dashboad</a>
+Dashboard Interaction <a href="https://github.com/Me1rem/Data-analysis/blob/main/community%20dataset(Analysis%20and%20dashboard).xlsx">View Dashboad</a>
 
 ## Process
 Verify data for any missing values and anomalies,and sort out the same
@@ -24,8 +24,8 @@ Created pivot tables according to question asked
 Merged all tables into one dashboard and applied slicer.
 
 ## Dashboard image
-<a href="https://github.com/Me1rem/Data-analysis/blob/main/Screenshot%202025-02-28%20075024.png">View Dashboad</a>
-<a href="https://github.com/Me1rem/Data-analysis/blob/main/Screenshot%202025-02-28%20081736.png">View Dashboard</a>
+<a href="https://github.com/Me1rem/Data-analysis/blob/main/Dashboard%20page%201.png">View Dashboad</a>
+<a href="https://github.com/Me1rem/Data-analysis/blob/main/Dashboard%20page%202.png">View Dashboard</a>
 
 ## Key Insights
 Card Brand: Mastercard emerged as the most widely used card brand, with the highest number of clients.
